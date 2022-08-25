@@ -7,8 +7,7 @@
 <div align="center">
   <a href="https://github.com/Isabellar0501">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabellar0501&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellar0501&layout=compact&langs_count=7&theme=dark"/>
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellar0501&layout=compact&langs_count=7&theme=dark"/>    
 </div>
   <div style="display:inline_block"><br>
   <img align="center" alt="Isa-Jv" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -17,7 +16,7 @@
   <img align="center" alt="Isa-HTML" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="Isa-HTML" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="Isa-HTML" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="right" alt="wall-e-pic" src="https://cdn.discordapp.com/attachments/1012451477358387392/1012454514923684011/wall-e.gif">
+ 
   </div>
   
   ##
