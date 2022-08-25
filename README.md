@@ -1,6 +1,7 @@
 ### Hello World👋 I’m Isabella Rodrigues
 ##
 - 🔭 I’m currently working on Documentation of Software and Back-End Developer
+- 
 - 🌱 I’m currently learning Java and PHP
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I really like architecture of Hardware and curiosities about the world of technology
@@ -16,7 +17,7 @@
   <img align="center" alt="Isa-HTML" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="Isa-HTML" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="Isa-HTML" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
- 
+  <img align="right" alt="Isa-HTML" height="150" src="http://1.bp.blogspot.com/-M-HfaF7Fvj4/TV1XI7lp3PI/AAAAAAAAA34/r9QojnpJrDk/s1600/walle_eva.jpg" />
   </div>
   
   ##
