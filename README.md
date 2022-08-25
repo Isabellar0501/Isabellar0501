@@ -1,7 +1,7 @@
 ### Hello World👋 I’m Isabella Rodrigues
 ##
 - 🔭 I’m currently working on Documentation of Software and Back-End Developer
-- 
+- 🎓 I’m currently studying Computer Science at college
 - 🌱 I’m currently learning Java and PHP
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I really like architecture of Hardware and curiosities about the world of technology
