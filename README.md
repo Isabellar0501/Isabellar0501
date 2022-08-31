@@ -17,16 +17,16 @@
 ### Languages and Skills
 ##
   <div style="display:inline_block"><br>
-  <img align="center" alt="Isa-Jv" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Isa-Spring" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Isa-php" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Isa-HTML" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" alt="Isa-CSS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="center" alt="Isa-SQL" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Isa-Jv" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Isa-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Isa-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Isa-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="center" alt="Isa-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="center" alt="Isa-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="right" alt="Isa-Img" height="150" src="https://cdn.discordapp.com/attachments/1012451477358387392/1013801238778884136/download20220801102348.png" />
   </div>
   
-  ### Contact-me
+  ### Contact me
   ##
 
   <div> 
