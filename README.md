@@ -26,7 +26,7 @@
   <img align="right" alt="Isa-Img" height="150" src="https://cdn.discordapp.com/attachments/1012451477358387392/1013801238778884136/download20220801102348.png" />
   </div>
   
-  ### Contate-me
+  ### Contact-me
   ##
 
   <div> 
