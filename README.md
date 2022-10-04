@@ -1,4 +1,8 @@
-### Hello World👋 I’m Isabella Rodrigues
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F2F1&width=435&lines=>Isabella+Rodrigues<" alt="Typing SVG"/>
+</p>
+
+### Hello World👋
 ##
 - 🔭 I’m currently working on Documentation of Software and Back-End Developer
 - 🎓 I’m currently studying Computer Science at college
