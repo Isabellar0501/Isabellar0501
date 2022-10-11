@@ -1,9 +1,15 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F2F1&width=435&lines=>Isabella+Rodrigues<" alt="Typing SVG"/>
-</p>
+<div align=center>
+  
+  <br>
+  
+  <p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=350&lines=%3CHello+World+%F0%9F%8C%8E%F0%9F%91%8B%3E;%3CI'm+Isabella%3E" alt="Typing SVG"/>
+  </p>
+            
+</div>
 
-### Hello World 🌎👋
 ---
+
 - 🔭 I’m currently working on Documentation of Software and Back-End Developer
 - 🎓 I’m currently studying Computer Science at college
 - 🌱 I’m currently learning Java and Flutter
