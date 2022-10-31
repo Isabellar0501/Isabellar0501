@@ -22,8 +22,8 @@
 
 <div align="center">
   <a href="https://github.com/Isabellar0501">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Isabellar0501&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellar0501&layout=compact&langs_count=7&theme=nord"/>    
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Isabellar0501&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellar0501&layout=compact&langs_count=7&theme=discord_old_blurple"/>    
 </div>
 
 ---
