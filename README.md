@@ -5,7 +5,7 @@
   <br>
   
   <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C4E3FF&width=435&lines=%3CHello+World+%F0%9F%8C%8E%F0%9F%91%8B%3E;%3CI'm+Isabella+Rodrigues%3E" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=435&lines=%3CHello+World+%F0%9F%8C%8E%F0%9F%91%8B%3E;%3CI'm+Isabella+Rodrigues%3E" alt="Typing SVG" /></a>
    </p>
             
 </div>
@@ -22,13 +22,11 @@
 
 <div align="center">
   <a href="https://github.com/Isabellar0501">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Isabellar0501&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellar0501&layout=compact&langs_count=7&theme=discord_old_blurple"/>    
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Isabellar0501&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellar0501&layout=compact&langs_count=7&theme=graywhite"/>    
 </div>
 
 ---
-  
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=isabellar0501&theme=tokyo-night&hide_border=true&area=true&area)
 
 ### Languages and Skills 💻
 
