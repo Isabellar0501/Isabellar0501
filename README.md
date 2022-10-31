@@ -22,13 +22,13 @@
 
 <div align="center">
   <a href="https://github.com/Isabellar0501">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Isabellar0501&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellar0501&layout=compact&langs_count=7&theme=dracula"/>    
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Isabellar0501&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellar0501&layout=compact&langs_count=7&theme=nord"/>    
 </div>
 
 ---
   
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=isabellar0501&theme=rogue&hide_border=true&area=true&area_color#D089FF)
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=isabellar0501&theme=xcode&hide_border=true&area=true&area_color#D089FF)
 
 ### Languages and Skills 💻
 
