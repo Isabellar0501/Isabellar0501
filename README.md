@@ -1,10 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F65E4D&height=120&section=header"/>
+
 <div align=center>
   
   <br>
   
   <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=350&lines=%3CHello+World+%F0%9F%8C%8E%F0%9F%91%8B%3E;%3CI'm+Isabella%3E" alt="Typing SVG"/>
-  </p>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F65E4D&width=435&lines=%3CHello+World+%F0%9F%8C%8E%F0%9F%91%8B%3E;%3CI'm+Isabella+Rodrigues%3E" alt="Typing SVG" /></a> 
+   </p>
             
 </div>
 
@@ -20,11 +22,13 @@
 
 <div align="center">
   <a href="https://github.com/Isabellar0501">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Isabellar0501&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellar0501&layout=compact&langs_count=7&theme=white"/>    
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Isabellar0501&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellar0501&layout=compact&langs_count=7&theme=dracula"/>    
 </div>
 
 ---
+  
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=isabellar0501&theme=rogue&hide_border=true&area=true&area_color#D089FF)
 
 ### Languages and Skills 💻
 
@@ -50,5 +54,6 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-          
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F65E4D&height=120&section=footer"/>
 
