@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F65E4D&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C4E3FF&height=120&section=header"/>
 
 <div align=center>
   
   <br>
   
   <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F65E4D&width=435&lines=%3CHello+World+%F0%9F%8C%8E%F0%9F%91%8B%3E;%3CI'm+Isabella+Rodrigues%3E" alt="Typing SVG" /></a> 
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C4E3FF&width=435&lines=%3CHello+World+%F0%9F%8C%8E%F0%9F%91%8B%3E;%3CI'm+Isabella+Rodrigues%3E" alt="Typing SVG" /></a>
    </p>
             
 </div>
@@ -28,7 +28,7 @@
 
 ---
   
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=isabellar0501&theme=xcode&hide_border=true&area=true&area_color#D089FF)
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=isabellar0501&theme=tokyo-night&hide_border=true&area=true&area)
 
 ### Languages and Skills 💻
 
@@ -55,5 +55,5 @@
  
 </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F65E4D&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C4E3FF&height=120&section=footer"/>
 
