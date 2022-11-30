@@ -5,7 +5,7 @@
   <br>
   
   <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=435&lines=%3CHello+World+%F0%9F%8C%8E%F0%9F%91%8B%3E;%3CI'm+Isabella+Rodrigues%3E" alt="Typing SVG" /></a>
+  <img width="80%" alt="Hello, I'm Isabella. I like code ;)" src="https://cdn.discordapp.com/attachments/1012451477358387392/1047607795463241728/myreadme.png"
    </p>
             
 </div>
