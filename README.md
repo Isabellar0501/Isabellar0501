@@ -12,7 +12,7 @@
 
 ---
 
-- 🔭 I’m currently working on Documentation of Software and Back-End Developer
+- 🔭 I’m currently working on Full-Stack Development
 - 🎓 I’m currently studying Computer Science at college
 - 🌱 I’m currently learning Java and Flutter
 - 😄 Pronouns: She/Her
