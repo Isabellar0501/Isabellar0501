@@ -5,7 +5,7 @@
   <br>
   
   <p align="center">
-  <img width="80%" alt="Hello, I'm Isabella. I like code ;)" src="https://cdn.discordapp.com/attachments/1012451477358387392/1047608189383872542/myreadme.png"
+  <img width="80%" alt="Hello, I'm Isabella. I like code ;)" src="https://cdn.discordapp.com/attachments/1012451477358387392/1047608189383872542/myreadme.png">
    </p>
             
 </div>
